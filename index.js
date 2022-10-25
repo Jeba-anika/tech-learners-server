@@ -14,6 +14,8 @@ app.get('/', (req, res)=>{
 app.get('/course-category', (req, res)=>{
     res.send(categories)
 })
+
+
 app.get('/all-courses', (req, res)=>{
     res.send(allCourses)
 })
