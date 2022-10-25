@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Front End Web Design Using HTML & CSS"
+    },
+    {
+      "id": "02",
+      "name": "Full Stack Web Development"
+    },
+    {
+      "id": "03",
+      "name": "Android Mobile Application Development using Java"
+    },
+    {
+      "id": "04",
+      "name": "Mobile Application Development using Swift for IoS platform"
+    },
+    {
+      "id": "05",
+      "name": "Mobile Application Development Using Flutter"
+    },
+    {
+      "id": "06",
+      "name": "UI/UX Design"
+    },
+    {
+      "id": "07",
+      "name": "Machine Learning with Python"
+    },
+    {
+      "id": "08",
+      "name": "Complete Data Science"
+    }
+  ]
