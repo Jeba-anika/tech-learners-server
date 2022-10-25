@@ -1,0 +1,170 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "duration": "10",
+          "level": "beginner",
+          "certification": true,
+          "language": "English, Bangla"
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_learners": 12000,
+        "title": "Front End Web Design Using HTML & CSS",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "occupation": "Google Developer Expert",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "This course breaks down the fundamentals of HTML & CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of HTML & CSS work and how to use them effectively in your projects. This course offers beginner level knowledge on modern HTML5 and CSS3 "
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+          "duration": "30",
+          "level": "Intermediate",
+          "certification": true,
+          "language": "English, Hindi"
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_learners": 20000,
+        "title": "Full Stack Web Development",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "occupation": "Google Developer Expert",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Learn both front-end and back-end development. This course offers a full career path which begins with front end, move on to the back end then connect the two. By the time you're done, you'll have the well-rounded skills needed to enter this in-demand job market. This course includes JavaScript, Node.JS, SQL, Express.JS, React, TDD, and more... "
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "others_info": {
+          "duration": "20",
+          "level": "beginner",
+          "certification": true,
+          "language": "English, Hindi"
+        },
+        "category_id": "03",
+        "rating": { "number": 4.0, "badge": "Very Good" },
+        "total_learners": 15000,
+        "title": "Android Mobile Application Development using Java",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "occupation": "Google Developer Expert",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Take your Android coding skills to the next level in our self-paced Advanced Android Development training. The course uses the Java programming language and teaches you ways to expand the user experience, improve app performance, and add features like custom views, animations, and location-awareness."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "others_info": {
+          "duration": "35",
+          "level": "Advanced",
+          "certification": true,
+          "language": "English"
+        },
+        "category_id": "04",
+        "rating": { "number": 5.0, "badge": "Excellent" },
+        "total_learners": 15000,
+        "title": "Mobile Application Development using Swift for IoS platform",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "occupation": "Google Developer Expert",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI! You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company. You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData. You will learn by doing, where every lesson is incorporated into a real-world app project. After the course, you will be able to build any app you want."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "others_info": {
+          "duration": "50",
+          "level": "Advanced",
+          "certification": true,
+          "language": "English, Bangla"
+        },
+        "category_id": "05",
+        "rating": { "number": 4.0, "badge": "Very Good" },
+        "total_learners": 15000,
+        "title": "Mobile Application Development Using Flutter",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "occupation": "Google Developer Expert",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps. Learn Flutter and Dart from the ground up, step-by-step. Build engaging native mobile apps for both Android and iOS. Use features like Google Maps, the device camera, authentication and much more! Learn how to upload images and how to send manual and automated push notifications"
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+        "others_info": {
+          "duration": "15",
+          "level": "Intermediate",
+          "certification": true,
+          "language": "English, Hindi"
+        },
+        "category_id": "06",
+        "rating": { "number": 4.2, "badge": "Good" },
+        "total_learners": 15000,
+        "title": "UI/UX Design",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "occupation": "Google Developer Expert",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Learn how to become a Full-Stack Designer with User Interface Design, User Experience Design, Web Development, Bootstrap. Design 3000 Figma interactive components variants and FigJam UX theories. Become a unicorn UI UX Designer who knows design and Build scalable design systems with Figma and automate manual processes"
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
+        "others_info": {
+          "duration": "15",
+          "level": "Intermediate",
+          "certification": true,
+          "language": "English, Arabic"
+        },
+        "category_id": "07",
+        "rating": { "number": 5.0, "badge": "Excellent" },
+        "total_learners": 15000,
+        "title": "Machine Learning with Python",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "occupation": "Google Developer Expert",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Learn to create Machine Learning Algorithms in Python and R from a Data Science expert. Code templates included. Master Machine Learning on Python & R, Have a great intuition of many Machine Learning models, Make accurate predictions,Make powerful analysis. You will learn by doing, where every lesson is incorporated into a real-world app project."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
+        "others_info": {
+          "duration": "40",
+          "level": "Advanced",
+          "certification": true,
+          "language": "English, Hindi"
+        },
+        "category_id": "08",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_learners": 15000,
+        "title": "Complete Data Science",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "occupation": "Google Developer Expert",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning. The course provides the entire toolbox you need to become a data scientist. Fill up your resume with in demand data science skills: Statistical analysis, Python programming with NumPy, pandas, matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow"
+      }
+]
