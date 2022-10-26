@@ -3,7 +3,7 @@
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "others_info": {
           "duration": "10",
-          "level": "beginner",
+          "level": "Beginner",
           "certification": true,
           "language": "English, Bangla",
           "price": 20
@@ -47,7 +47,7 @@
         "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
         "others_info": {
           "duration": "20",
-          "level": "beginner",
+          "level": "Beginner",
           "certification": true,
           "language": "English, Hindi",
           "price": 85
